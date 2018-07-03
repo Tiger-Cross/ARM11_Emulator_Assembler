@@ -13,7 +13,7 @@ binary file that can subsequently be executed by the emulator
  - `emulate.c` contains the main functionality for the emulator.
  - `assemble.c` contains the main functionality for the assembler.
  
- You can compile emulate using `make emulate`, and assemble using 'make assemble`.
+ You can compile emulate using `make emulate`, and assemble using `make assemble`.
 
 ## Tests
  
