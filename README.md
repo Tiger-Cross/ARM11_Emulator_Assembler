@@ -20,7 +20,7 @@ binary file that can subsequently be executed by the emulator
  - See `test` directory for the ruby test suite.
  - See `src/unit_tests` directory for the unit tests.
  
-Run `make` to compile emulate/assemble. Then this will run the unit tests and the ruby tests. Ensure submodules are imported using `git submodule init` and `git submodule update`
+Run `make` in the root folder to compile emulate/assemble. Then this will run the unit tests and the ruby tests. Ensure submodules are imported using `git submodule init` and `git submodule update`.
 
 NB: The test loop01 may fail on some machines as there is a timeout and it requires an extremely large number of operations.
 
